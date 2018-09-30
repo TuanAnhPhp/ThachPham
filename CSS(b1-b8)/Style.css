@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+#tieu-de{
+    color: #7FFF00;
+}
+.tieu-de1{
+    font-style: italic;
+}
+#menu ul li{
+    background-color: #B22222;
+}
+#Social ul ul >p{
+    background: red;
+    color: white;
+}
