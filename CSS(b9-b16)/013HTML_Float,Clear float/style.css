@@ -1,0 +1,27 @@
+.container{
+    color: white;
+    width: 960px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 2em;
+}
+/*Clear float cách 1:
+#content{
+overflow: auto;}
+ */
+#post{
+    background: blue;
+    width: 560px;
+    height: 300px;
+    float: left;
+}
+#sidebar{
+    background: red;
+    width: 400px;
+    float: right;
+    height: 300px;
+}
+/*Clear float cách 2:*/
+.clear{
+    clear: both;
+}

@@ -1,0 +1,21 @@
+.List-1{
+    background: red;
+    padding: 0;
+    margin-left: 32px;
+    width: 250px;
+    list-style-type:square ;
+    list-style-position: outside;
+}
+.List-2{
+    background: red;
+    padding: 0;
+    margin-left: 32px;
+    width: 1200px;
+    list-style-type:none;
+    list-style-position: inside;
+    list-style-image: url("https://vignette.wikia.nocookie.net/narutofanon/images/6/6a/Icon_green_dot.png/revision/latest?cb=20161029210441");
+
+/*
+.List-1{
+list-style: square outside;}
+ */

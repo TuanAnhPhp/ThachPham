@@ -1,0 +1,12 @@
+#b1{
+    background-color: red;
+    max-height: 500px;
+    max-width: 300px;
+    width: 500px;
+    height: 600px;
+}
+#b2{
+    background-color: blue;
+    min-height: 500px;
+    min-width: 200px;
+}
